@@ -1,0 +1,14 @@
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\bin\Debug\netcoreapp2.2\PoralRandkowy.API.deps.json
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\bin\Debug\netcoreapp2.2\PoralRandkowy.API.runtimeconfig.json
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\bin\Debug\netcoreapp2.2\PoralRandkowy.API.runtimeconfig.dev.json
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\bin\Debug\netcoreapp2.2\PoralRandkowy.API.dll
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\bin\Debug\netcoreapp2.2\PoralRandkowy.API.pdb
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.csprojAssemblyReference.cache
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.RazorAssemblyInfo.cache
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.RazorAssemblyInfo.cs
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.AssemblyInfoInputs.cache
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.AssemblyInfo.cs
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.RazorTargetAssemblyInfo.cache
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.dll
+C:\Users\MAGIC\PortalRandkowy\PoralRandkowy.API\obj\Debug\netcoreapp2.2\PoralRandkowy.API.pdb
